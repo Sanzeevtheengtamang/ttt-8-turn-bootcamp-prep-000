@@ -39,6 +39,10 @@ def turn(board)
     move(board,index,fill="X")
   end
   
+<<<<<<< HEAD
   p display_board(board)
+=======
+  p board
+>>>>>>> 6c345fd7b434e12adc6a93874260dbf71990513a
   
 end
